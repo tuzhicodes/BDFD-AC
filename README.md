@@ -1,4 +1,6 @@
-# TuZhi Codes - BDFD Commands Free
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=TuZhi+Codes+-+BDFD+Commands+Free" alt="Typing SVG" />
+</p>
 
 <div align="center">
 
