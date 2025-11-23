@@ -9,3 +9,20 @@
 **Advanced AI-Powered Discord Bot with Vision, Memory & Multi-Language Support**
 
 </div>
+
+---
+
+<div align="center">
+
+### 🔥 Made with ❤️ by [TuZhi Codes](https://www.youtube.com/@TuZhiCodes)
+
+**⭐ Star this repo if you found it helpful!**
+
+[![GitHub Stars](https://img.shields.io/github/stars/tuzhicodes/TuZhi-Ai?style=social)](https://github.com/YourUsername/tuzhi-ai-bot)
+[![GitHub Forks](https://img.shields.io/github/forks/tuzhicodes/TuZhi-Ai?style=social)]([https://github.com/tuzhicodes/TuZhi-Ai/fork](https://github.com/tuzhicodes/TuZhi-Ai/fork))
+
+---
+
+**© 2024 TuZhi Codes. All rights reserved.**
+
+</div> 
