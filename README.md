@@ -26,6 +26,22 @@ $color[$getVar[hcolor]]
 $footer[Credit by TuZhi Codes]
 
 ```
+---
+### Pat
+```javascript
+$nomention
+$changeCooldownTime[Days;Hours;Mins;Secs]
+$globalCooldown[10s; <a:Cooldown:1411262891931336774> **|** UwU **$displayName**! You need to wait **%time-m%** then try again !!]
+
+
+$botTyping
+$httpGet[https://nekos.best/api/v2/pat]
+$description[<@$authorID> gently patted $replaceText[<@$mentioned[1]>;<@>;themself;1] 🫂 aww~]
+$image[$httpResult[results;0;url]]
+$color[$getVar[hcolor]]
+$footer[Credit by TuZhi Codes]
+
+```
 
 <div align="center">
 
@@ -34,7 +50,7 @@ $footer[Credit by TuZhi Codes]
 **⭐ Star this repo if you found it helpful!**
 
 [![GitHub Stars](https://img.shields.io/github/stars/tuzhicodes/BDFD-AC?style=social)](https://github.com/tuzhicodes/BDFD-AC)
-[![GitHub Forks](https://img.shields.io/github/forks/tuzhicodes/BDFD-AC?style=social)]([https://github.com/tuzhicodes/BDFD-AC/fork](https://github.com/tuzhicodes/BDFD-AC/fork))
+[![GitHub Forks](https://img.shields.io/gi ko sethub/forks/tuzhicodes/BDFD-AC?style=social)]([https://github.com/tuzhicodes/BDFD-AC/fork](https://github.com/tuzhicodes/BDFD-AC/fork))
 
 ---
 
