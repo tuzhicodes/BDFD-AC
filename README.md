@@ -1,4 +1,4 @@
-# BDFD Actions Commands
+# **BDFD Actions Commands**
 
 <div align="center">
 
