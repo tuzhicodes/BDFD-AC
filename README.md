@@ -11,6 +11,21 @@
 </div>
 
 ---
+### .kiss @user
+```javascript
+$nomention
+$changeCooldownTime[Days;Hours;Mins;Secs]
+$globalCooldown[10s; <a:Cooldown:1411262891931336774> **|** UwU **$displayName**! You need to wait **%time-m%** then try again !!]
+
+
+$botTyping
+$httpGet[https://api.waifu.pics/sfw/kill]
+$description[<@$authorID> dramatically killed $replaceText[<@$mentioned[1]>;<@>;themself;1] ⚔️ (anime style only~)]
+$image[$httpResult[url]]
+$color[$getVar[hcolor]]
+$footer[Credit by TuZhi Codes]
+
+```
 
 <div align="center">
 
