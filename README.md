@@ -50,7 +50,7 @@ $footer[Credit by TuZhi Codes]
 **⭐ Star this repo if you found it helpful!**
 
 [![GitHub Stars](https://img.shields.io/github/stars/tuzhicodes/BDFD-AC?style=social)](https://github.com/tuzhicodes/BDFD-AC)
-[![GitHub Forks](https://img.shields.io/gi ko sethub/forks/tuzhicodes/BDFD-AC?style=social)]([https://github.com/tuzhicodes/BDFD-AC/fork](https://github.com/tuzhicodes/BDFD-AC/fork))
+[![GitHub Forks](https://img.shields.io/github/forks/tuzhicodes/BDFD-AC?style=social)]([https://github.com/tuzhicodes/BDFD-AC/fork](https://github.com/tuzhicodes/BDFD-AC/fork))
 
 ---
 
